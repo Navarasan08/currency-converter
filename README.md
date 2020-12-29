@@ -7,4 +7,4 @@ A new Flutter Currency Converter App.
 This project is a starting point for a Flutter application.
 
 
-[a link](https://github.com/Navarasan08/currency-converter/blob/main/app-armeabi-v7a-release.apk)
+[Download currenxy converter Android App](https://github.com/Navarasan08/currency-converter/blob/main/app-armeabi-v7a-release.apk)
